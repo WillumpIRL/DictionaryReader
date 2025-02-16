@@ -29,6 +29,10 @@ This program provides an interactive dictionary system that allows users to load
    ```
 3. Follow the on-screen menu to interact with the dictionary.
 
+OR
+
+Download the DictionaryProgram.exe and the dictionary.txt file
+
 ## Author
 Written by William James
 
